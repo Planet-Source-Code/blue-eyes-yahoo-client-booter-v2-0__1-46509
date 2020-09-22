@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=prjNewYahooClient.vbp
+Project=IconMenu\prjIconMenu.vbp
+Project=Timer\SubTimer6.vbp
